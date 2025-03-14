@@ -4,6 +4,9 @@
 import unittest
 import subprocess
 import duim
+import sys
+sys.stdout.flush()
+
 
 class TestArgs(unittest.TestCase):
     
